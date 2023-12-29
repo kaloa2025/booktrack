@@ -1,0 +1,118 @@
+.bookmark
+{
+    background-image: url('../Images/bmbg.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    color: antiquewhite
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hammersmith+One&family=Inter:wght@100;200;400;500;700;900&display=swap');
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:100%;
+    text-align: center;
+  }
+  
+  .login-square {
+    width:80%;
+    height:fit-content;
+    background-color: #00000044; 
+    text-align: center;
+    vertical-align: middle;
+    padding: 2%;
+  }
+
+  .empty
+  {
+    background-image: url('../Images/bookmarkbg2.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  .ebox
+  {
+    padding: 5%;
+    color: rgb(85, 41, 0);
+    font-weight: 700;
+    font-size: larger;
+    font-family: 'Inter',sans-serif;
+    letter-spacing: 1px;
+    background-color: rgb(255, 179, 0);
+    width:20%;
+    height:10%;
+    text-align: center;
+    vertical-align: middle;
+    box-shadow: #00000014 7px 7px;
+  }
+  .ebut
+  {
+    margin-top: 10%;
+    margin-bottom: 5%;
+    background-color: transparent;
+    border-radius: 20px;
+    letter-spacing: 1px;
+    border-width: 1px;
+    cursor: pointer;
+    padding: 2% 5% 2% 5%;
+    border-color: rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+  }
+  .ebut:hover
+  {
+    box-shadow:#00000014 0px 5px;
+    padding: 2.5% 5.5% 2.5% 5.5%;
+  }
+
+  .bbutb
+  {
+    background-color: transparent;
+    border-width: 0%;
+    border-color: transparent;
+    cursor: pointer;
+  }
+  .ebut2
+  {
+    margin-top: 10%;
+    margin-bottom: 5%;
+    background-color: transparent;
+    border-radius: 20px;
+    letter-spacing: 1px;
+    border-width: 1px;
+    cursor: pointer;
+    padding: 2% 5% 2% 5%;
+    border-color:blanchedalmond;
+    color:blanchedalmond;
+  }
+  .ebut2:hover
+  {
+    box-shadow:#00000014 0px 5px;
+    padding: 2.2% 5.2% 2.2% 5.2%;
+  }
+  .bbtubimg
+  {
+    width:50%;
+  }
+  .table
+  {
+    padding: 5%;
+  }
+  .td
+  {
+    padding:2%;
+    font-family: 'Inter',sans-serif;
+    font-size: medium;
+    font-weight: 300;
+  }

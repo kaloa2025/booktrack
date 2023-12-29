@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hammersmith+One&family=Inter:wght@100;200;400;500;700;900&display=swap');
+
+.search
+{
+    background-color: #181818;
+    color: white;
+    padding: 5%;
+    text-align: center;
+    vertical-align: middle;
+    font-family: 'Inter',sans-serif;
+    font-weight: 300;
+    letter-spacing:2px;
+}
+.sul
+{
+    text-align: center;
+    width: 100%;
+    padding: 1%;
+}
+.ip
+{
+    padding-left: 25%;
+    padding-right: 25%;
+    width:10%;
+    color:#84612B;
+    border-radius:20px;
+    height: 25px;
+}
+.sbut
+{
+    border-width:0cap;
+    background-color:#FFE7C2;
+    color: #84612B;
+    padding: 10px;
+    font-family: 'Inter',sans-serif;
+    font-weight: 200;
+    cursor: pointer;
+    letter-spacing: 1px;
+    margin-top: 2%;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius:20px ;
+}
+.sp
+{
+    font-family: 'Inter', sans-serif;
+    font-weight: 300;
+    letter-spacing: 5%;
+    font-size: x-large;
+}

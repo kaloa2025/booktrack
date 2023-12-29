@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hammersmith+One&family=Inter:wght@100;200;400;500;700;900&display=swap');
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    position: -webkit-sticky;
+    color: #FFE7C2;
+    position: sticky;
+    top: 0;
+  }
+  
+  li {
+    float: left;
+    margin-right: 5%;
+    margin-left: 2%;
+    margin-top: 1%;
+    text-align: center;
+    vertical-align: bottom;
+  }
+  .Nbut
+  {
+    background-color: transparent;
+    border-width: 0cm;
+    color: #FFE7C2;
+    cursor: pointer;
+    font-family: 'Inter', sans-serif;
+  }

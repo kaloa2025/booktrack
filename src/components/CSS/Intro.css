@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hammersmith+One&family=Inter:wght@100;200;400;500;700;900&display=swap');
+.intro-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:80%;
+    text-align: center;
+  }
+  
+  .intro-square {
+    width:60%;
+    height:fit-content;
+    background-color: #00000044; 
+    text-align: center;
+    vertical-align: middle;
+    padding: 2%;
+  }
+
+  .p-tagline
+  {
+    font-family: 'Inter', sans-serif;
+    font-weight: 200;
+    letter-spacing: 2px;
+    color:#FFE7C2;
+  }
+  .p-intro
+  {
+    font-family: 'Inter', sans-serif;
+    font-weight: 100;
+    letter-spacing: 1px;
+    font-size: x-small;
+    color:#FFE7C2;
+    width: 50%;
+    padding-left: 25%;
+    padding-right: 25%;
+    margin-bottom: 2%;
+  }
+  .p-quote
+  {
+    font-family: 'Hammersmith One', sans-serif;
+    color: white;
+    font-size:300%;
+    margin: 2%;
+  }
+  .p-but1
+  {
+    background-color: #FFE7C2;
+    font-family: 'Inter',sans-serif;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    border-width: 0cm;
+    cursor: pointer;
+    border-radius: 25px;
+  }
+  .p-but2
+  {
+    font-family: 'Inter',sans-serif;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 10%;
+    padding-bottom: 8%;
+    border-width: 0cm;
+    cursor: pointer;
+    border-radius: 25px;
+  }
+  .p-list
+  {
+    text-align: center;
+    display: block;
+    padding-left: 33%;
+    list-style-type: none;
+    overflow: hidden;
+    width: 100%;
+  }

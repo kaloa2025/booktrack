@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hammersmith+One&family=Inter:wght@100;200;400;500;700;900&display=swap');
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:80%;
+    text-align: center;
+  }
+  
+  .login-square {
+    width:30%;
+    height:fit-content;
+    background-color: #00000044; 
+    text-align: center;
+    vertical-align: middle;
+    padding: 2%;
+  }
+
+.l-but1
+  {
+    background-color: #FFE7C2;
+    font-family: 'Inter',sans-serif;
+    padding-left: 25%;
+    padding-right: 25%;
+    padding-top: 7%;
+    padding-bottom: 7%;
+    border-width: 0cm;
+    cursor: pointer;
+  }
+  .l-but1:hover
+  {
+    background-color: aliceblue;
+  }
+  .l-but2
+  {
+    font-family: 'Inter',sans-serif;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    border-width: 0cm;
+    cursor: pointer;
+  }
+  .l-list
+  {
+    margin-top: 3%;
+    text-align: center;
+    display: block;
+    padding-left: 28%;
+    list-style-type: none;
+    overflow: hidden;
+    width: 100%;
+  }
+
+  .l-font
+  {
+    font-family: 'Inter',sans-serif;
+    font-weight: 100;
+    letter-spacing: 6%;
+    font-size: smaller;
+    margin: 2%;
+    color: #FFE7C2;
+    text-align: left;
+    margin-left: 28%;
+  }
+  input
+  {
+    background-color: #FFE7C2;
+    border-width: 0;
+    padding: 0.5%;
+  }
