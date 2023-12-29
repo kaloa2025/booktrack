@@ -1,5 +1,5 @@
 const mongoose =require('mongoose');
-const mongoURI="mongodb+srv://kaloa2025:aalok21004@cluster0.xgpa9vt.mongodb.net/booktrack?retryWrites=true&w=majority";
+const mongoURI="mongodb+srv://kaloa2025:**********@cluster0.xgpa9vt.mongodb.net/booktrack?retryWrites=true&w=majority";
 
 const mongoDB = async () => {
     try {
